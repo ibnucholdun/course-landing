@@ -5,7 +5,7 @@ import "./globals.css";
 const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Course Landing",
+  title: "Course Landing Page",
   description: "Created by Ibnu Choldun",
 };
 
